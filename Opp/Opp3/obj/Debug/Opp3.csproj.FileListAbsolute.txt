@@ -1,0 +1,7 @@
+C:\Users\Manh Hung\source\repos\Opp3\Opp3\bin\Debug\Opp3.exe.config
+C:\Users\Manh Hung\source\repos\Opp3\Opp3\bin\Debug\Opp3.exe
+C:\Users\Manh Hung\source\repos\Opp3\Opp3\bin\Debug\Opp3.pdb
+C:\Users\Manh Hung\source\repos\Opp3\Opp3\obj\Debug\Opp3.csprojAssemblyReference.cache
+C:\Users\Manh Hung\source\repos\Opp3\Opp3\obj\Debug\Opp3.csproj.CoreCompileInputs.cache
+C:\Users\Manh Hung\source\repos\Opp3\Opp3\obj\Debug\Opp3.exe
+C:\Users\Manh Hung\source\repos\Opp3\Opp3\obj\Debug\Opp3.pdb

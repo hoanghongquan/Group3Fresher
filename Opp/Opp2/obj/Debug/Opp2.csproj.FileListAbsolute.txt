@@ -1,0 +1,7 @@
+C:\Users\Manh Hung\source\repos\Opp\Opp2\bin\Debug\Opp2.exe.config
+C:\Users\Manh Hung\source\repos\Opp\Opp2\bin\Debug\Opp2.exe
+C:\Users\Manh Hung\source\repos\Opp\Opp2\bin\Debug\Opp2.pdb
+C:\Users\Manh Hung\source\repos\Opp\Opp2\obj\Debug\Opp2.csproj.CoreCompileInputs.cache
+C:\Users\Manh Hung\source\repos\Opp\Opp2\obj\Debug\Opp2.exe
+C:\Users\Manh Hung\source\repos\Opp\Opp2\obj\Debug\Opp2.pdb
+C:\Users\Manh Hung\source\repos\Opp\Opp2\obj\Debug\Opp2.csprojAssemblyReference.cache
