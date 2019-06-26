@@ -1,0 +1,6 @@
+E:\C# fun\baitap3\baitap3\bin\Debug\baitap3.exe.config
+E:\C# fun\baitap3\baitap3\bin\Debug\baitap3.exe
+E:\C# fun\baitap3\baitap3\bin\Debug\baitap3.pdb
+E:\C# fun\baitap3\baitap3\obj\Debug\baitap3.csprojResolveAssemblyReference.cache
+E:\C# fun\baitap3\baitap3\obj\Debug\baitap3.exe
+E:\C# fun\baitap3\baitap3\obj\Debug\baitap3.pdb

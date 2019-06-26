@@ -1,0 +1,7 @@
+E:\baitaplab\baitaplab2\baitaplab2\bin\Debug\baitaplab2.exe.config
+E:\baitaplab\baitaplab2\baitaplab2\bin\Debug\baitaplab2.exe
+E:\baitaplab\baitaplab2\baitaplab2\bin\Debug\baitaplab2.pdb
+E:\baitaplab\baitaplab2\baitaplab2\obj\Debug\baitaplab2.exe
+E:\baitaplab\baitaplab2\baitaplab2\obj\Debug\baitaplab2.pdb
+E:\baitaplab\baitaplab2\baitaplab2\obj\Debug\baitaplab2.csprojAssemblyReference.cache
+E:\baitaplab\baitaplab2\baitaplab2\obj\Debug\baitaplab2.csproj.CoreCompileInputs.cache
