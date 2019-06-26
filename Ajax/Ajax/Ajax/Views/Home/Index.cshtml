@@ -1,0 +1,77 @@
+﻿@using Ajax.Models
+@{
+    ViewBag.Title = "Home Page";
+}
+<script src="~/Scripts/plugins/mustache.min.js"></script>
+<div class="jumbotron">
+    <h2>BLOCK 1: GET HTML</h2>
+</div>
+<hr />
+
+<div id="demo">
+    <h2>Click to Change Content! </h2>
+    <button type="button" onclick="loadDoc()">Change Content</button>
+</div>
+
+<script>
+    function loadDoc() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                document.getElementById("demo").innerHTML =
+                    this.responseText;
+            }
+        };
+        xhttp.open("GET", "/DataPage.html", true);
+        xhttp.send();
+    }
+</script>
+
+<div class="jumbotron">
+    <h2>BLOCK 2: GET JSON </h2>
+</div>
+<hr />
+
+<script>
+
+</script>
+
+<div id="json">
+    <h2>Click to Change Content! </h2>
+    <button type="button" id="loadJson">Load Json</button>
+</div>
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/plugins/mustache.min.js"></script>
+<script src="~/Scripts/controllers/homeController.js"></script>
+<script>
+    var home = new homeController();
+    home.init();</script>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td>ID</td>
+                    <td>Name</td>
+                    <td>Gender/td>
+                </tr>
+            </thead>
+            <tbody id="tblData"></tbody>
+        </table>
+
+    </div>
+
+</div>
+
+<script id="data-template" type="x-tmpl-mustache">
+
+    <tr>
+        <td>{{ID}}</td>
+        <td>{{FullName}}</td>
+        <td>{{{Gender}}}</td>
+
+    </tr>
+
+</script>
+
