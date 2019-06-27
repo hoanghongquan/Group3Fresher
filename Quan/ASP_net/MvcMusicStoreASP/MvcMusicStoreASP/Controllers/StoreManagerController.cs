@@ -10,6 +10,7 @@ using MvcMusicStoreASP.Models;
 
 namespace MvcMusicStoreASP.Controllers
 {
+    [Authorize(Roles = "Administrator")]
     public class StoreManagerController : Controller
     {
         private MusicStoreEntities db = new MusicStoreEntities();
