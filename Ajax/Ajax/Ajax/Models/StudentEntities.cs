@@ -13,5 +13,6 @@ namespace Ajax.Models
         }
 
         public DbSet<Student> Studens { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

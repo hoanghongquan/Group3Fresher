@@ -80,3 +80,4 @@ E:\Git\Ajax\Ajax\Ajax\bin\EntityFramework.SqlServer.xml
 E:\Git\Ajax\Ajax\Ajax\obj\Debug\Ajax.csprojAssemblyReference.cache
 E:\Git\Ajax\Ajax\Ajax\obj\Debug\Ajax.csproj.GenerateResource.cache
 E:\Git\Ajax\Ajax\Ajax\obj\Debug\Ajax.Migrations.StudentET.resources
+E:\Git\Ajax\Ajax\Ajax\obj\Debug\Ajax.Migrations.AddUser.resources

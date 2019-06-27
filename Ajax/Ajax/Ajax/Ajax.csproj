@@ -136,10 +136,14 @@
     <Compile Include="Migrations\201906261004562_StudentET.Designer.cs">
       <DependentUpon>201906261004562_StudentET.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201906270708169_AddUser.cs" />
+    <Compile Include="Migrations\201906270708169_AddUser.Designer.cs">
+      <DependentUpon>201906270708169_AddUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\JsonHelper.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Models\StudentEntities.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -217,6 +221,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201906261004562_StudentET.resx">
       <DependentUpon>201906261004562_StudentET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906270708169_AddUser.resx">
+      <DependentUpon>201906270708169_AddUser.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
