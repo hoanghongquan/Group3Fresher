@@ -105,3 +105,9 @@ D:\TrainingSmartOSC\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusic
 D:\TrainingSmartOSC\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusicStoreASP.pdb
 D:\TrainingSmartOSC\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusicStoreASP.Migrations.InitialCreate.resources
 D:\TrainingSmartOSC\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusicStoreASP.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\Group3Fresher\Quan\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\bin\EntityFramework.dll
+C:\Users\hoang\OneDrive\Máy tính\Group3Fresher\Quan\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\bin\EntityFramework.xml
+C:\Users\hoang\OneDrive\Máy tính\Group3Fresher\Quan\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusicStoreASP.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\Group3Fresher\Quan\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusicStoreASP.Migrations.InitialCreate.resources
+C:\Users\hoang\OneDrive\Máy tính\Group3Fresher\Quan\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusicStoreASP.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\Group3Fresher\Quan\ASP_net\MvcMusicStoreASP\MvcMusicStoreASP\obj\Debug\MvcMusicStoreASP.csproj.CoreCompileInputs.cache
