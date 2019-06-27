@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace MvcMusicStoreASP.Models
 {
-    public class ShoppingCart
+    public partial class ShoppingCart
     {
         MusicStoreEntities storeDB = new MusicStoreEntities();
         string ShoppingCartId { get; set; }
