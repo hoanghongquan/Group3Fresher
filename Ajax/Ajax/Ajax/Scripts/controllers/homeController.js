@@ -1,8 +1,11 @@
 ﻿var homeController = function () {
 
     this.init = function () {
-
+       
         registerEvent();
+   
+        loadUser();
+        setInterval(function () { loadUser(); alert("Loaded!"); }, 1000*60*10);
     }
 
  
@@ -109,7 +112,7 @@
                 var template = $('#User-template').html();
                 $.each(data,
                     function (i, item) {
-                        html += Mustache.render(template,
+                        html += window.Mustache.render(template,
                             {
                                 FullName: item.Fullname,
                                 Gender: item.Gender,
@@ -118,7 +121,8 @@
                             });
 
                     });
-                setTimeout(loadUser(),1000 * 10);
+                
+                
                 $('#UserData').html(html);
      
             }
