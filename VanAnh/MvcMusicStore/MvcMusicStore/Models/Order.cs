@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 namespace MvcMusicStore.Models
 {
+
+
     public partial class Order
     {
         public int OrderId { get; set; }

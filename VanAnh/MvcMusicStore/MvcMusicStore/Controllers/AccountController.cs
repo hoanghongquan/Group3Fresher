@@ -422,6 +422,13 @@ namespace MvcMusicStore.Controllers
 
             base.Dispose(disposing);
         }
+        private void MigrateShoppingCart(string UserName)
+        {
+            // Associate shopping cart items with logged-in user
+            var cart = ShoppingCart.GetCart(this.HttpContext);
+            cart.MigrateCart(UserName);
+            Session[ShoppingCart.CartSessionKey] = UserName;
+        }
 
         #region Helpers
         // Used for XSRF protection when adding external logins
